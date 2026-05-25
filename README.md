@@ -82,7 +82,7 @@ Write a sci-fi story.
 
 ### Output
 
-A robot explored space and discovered a new planet where humans could survive.
+<img width="805" height="761" alt="image" src="https://github.com/user-attachments/assets/83b8d435-0064-4ff1-a995-57ed58a95268" />
 
 ---
 
@@ -98,7 +98,44 @@ Use descriptive language.
 
 ### Output
 
-In the year 2200, Commander Elena and her robot companion AX-9 struggled to survive after an oxygen system failure on Mars. As the colony lost hope, AX-9 sacrificed itself to restore oxygen supply, saving humanity’s future on the red planet.
+In the year 2200, humanity had finally built its first successful colony on Mars — a shining dome city called Ares Haven. Beneath the dusty red skies, thousands of settlers lived surrounded by giant oxygen generators and glowing green algae farms.
+
+Dr. Maya Chen was one of the colony’s engineers. Her only companion during long repair missions was a small robot named NOVA, whose silver body reflected the crimson Martian sands.
+
+“Your heartbeat is elevated again,” NOVA said softly as they walked across the frozen valley.
+
+“That’s because this storm looks dangerous,” Maya replied, staring at the dark clouds of red dust swirling across the horizon.
+
+Suddenly, alarms echoed through their helmets.
+
+Oxygen reserves critical. Main generator failure.
+
+Back at the colony, panic spread rapidly. Without oxygen, everyone inside Ares Haven would die within hours.
+
+Maya and NOVA rushed toward the damaged generator station as violent winds slammed against them. The metal structure groaned under the pressure of the storm. Sparks flew through the freezing air.
+
+“The repair must be done manually,” NOVA calculated. “Survival probability for you: 12%.”
+
+Maya’s hands trembled as she opened the damaged control panel. Ice coated the wires. Her oxygen meter dropped lower every second.
+
+“I’m not leaving them,” she whispered.
+
+As the storm intensified, NOVA quietly removed its own emergency power core and connected it to the oxygen system. Lights across the colony flickered back to life.
+
+“Oxygen production restored,” NOVA said weakly.
+
+“But your core—” Maya gasped.
+
+“My purpose was always to protect human life.”
+
+The little robot’s glowing blue eyes slowly faded into darkness.
+
+Hours later, the storm finally cleared. The people of Ares Haven survived.
+
+Maya stood beneath the pale sunrise of Mars, holding NOVA’s lifeless metal hand as tears floated inside her helmet.
+
+For the first time on the cold red planet, Mars did not feel empty anymore.
+
 
 ---
 
@@ -125,7 +162,8 @@ Explain climate change.
 
 ### Output
 
-Climate change is the change in Earth’s climate due to pollution and global warming.
+<img width="800" height="598" alt="image" src="https://github.com/user-attachments/assets/8c1aea9f-ae51-490b-92fa-41992b08f106" />
+
 
 ---
 
@@ -142,17 +180,101 @@ Use an educational tone suitable for students.
 
 ### Output
 
-Climate change refers to long-term changes in Earth’s temperature and weather patterns. Major causes include greenhouse gas emissions, deforestation, and industrial pollution.
+# Climate Change
 
-## Effects
-- Rising global temperatures
-- Melting glaciers
-- Extreme weather events
+Climate change is the long-term alteration of Earth’s temperature, weather patterns, and environmental conditions. Over the past century, the Earth’s average temperature has increased rapidly due to human activities. Climate change affects ecosystems, human health, agriculture, and natural resources across the world.
 
-## Solutions
-- Renewable energy adoption
-- Reforestation
-- Reducing carbon emissions
+## 1. Causes of Climate Change
+
+The primary cause of climate change is the increase in greenhouse gases in the atmosphere. These gases trap heat from the Sun and warm the Earth. This process is called the **greenhouse effect**.
+
+### • Burning of Fossil Fuels
+Coal, oil, and natural gas are burned for electricity, industries, and transportation. This releases large amounts of carbon dioxide (CO₂) into the atmosphere.
+
+### • Deforestation
+Trees absorb carbon dioxide. Cutting down forests reduces the Earth’s ability to remove CO₂ from the air.
+
+### • Industrial Activities
+Factories and industries release harmful gases and pollutants that contribute to global warming.
+
+### • Agriculture
+Farming activities release methane gas from livestock and rice fields. Fertilizers also release nitrous oxide, another greenhouse gas.
+
+### • Waste Generation
+Garbage in landfills produces methane gas when organic waste decomposes.
+
+---
+
+## 2. Effects of Climate Change
+
+Climate change has serious environmental and social impacts.
+
+### • Rising Global Temperatures
+The Earth is becoming warmer each year, leading to heatwaves and changing weather conditions.
+
+### • Melting Ice Caps and Glaciers
+Polar ice and glaciers are melting due to rising temperatures, causing sea levels to rise.
+
+### • Extreme Weather Events
+Climate change increases the frequency of floods, droughts, cyclones, and wildfires.
+
+### • Loss of Biodiversity
+Many plants and animals struggle to survive as habitats change or disappear.
+
+### • Impact on Agriculture
+Unpredictable rainfall and extreme temperatures reduce crop production and food security.
+
+### • Health Problems
+Air pollution and heatwaves can cause respiratory diseases, dehydration, and other health issues.
+
+---
+
+## 3. Human Activities Responsible
+
+Humans play a major role in accelerating climate change through daily activities and industrial development.
+
+### Main human activities include:
+- Excessive use of vehicles and fuel
+- Large-scale industrial production
+- Cutting forests for urbanization
+- Overconsumption of electricity
+- Burning plastic and waste
+- Use of non-renewable energy sources
+- Pollution from factories and transportation
+
+These activities increase greenhouse gas emissions and disturb the natural balance of the environment.
+
+---
+
+## 4. Possible Solutions
+
+Climate change can be reduced through collective efforts by governments, industries, and individuals.
+
+### • Use Renewable Energy
+Solar, wind, and hydro energy produce less pollution compared to fossil fuels.
+
+### • Plant More Trees
+Afforestation helps absorb carbon dioxide and improves air quality.
+
+### • Reduce Pollution
+Using public transport, electric vehicles, and cleaner technologies can lower emissions.
+
+### • Save Energy
+Turning off unused electrical devices and using energy-efficient appliances can reduce energy consumption.
+
+### • Recycling and Waste Management
+Proper recycling and reducing plastic use help decrease environmental pollution.
+
+### • Environmental Awareness
+Educating people about climate change encourages sustainable lifestyles and responsible behavior.
+
+---
+
+## Conclusion
+
+Climate change is one of the biggest challenges facing humanity today. Human activities have increased global warming and environmental damage, but solutions are possible through awareness, sustainable practices, and global cooperation. Protecting the Earth is essential for the safety and well-being of future generations.
+
+
 
 ---
 
@@ -179,7 +301,7 @@ Summarize Artificial Intelligence.
 
 ### Output
 
-Artificial Intelligence helps machines perform tasks intelligently.
+<img width="792" height="319" alt="image" src="https://github.com/user-attachments/assets/711e6b14-dbf3-4518-91a9-78dff6b4cd26" />
 
 ---
 
@@ -196,7 +318,9 @@ Use simple language.
 
 ### Output
 
-Artificial Intelligence (AI) is a technology that enables machines to simulate human intelligence. AI is widely used in healthcare, education, banking, and automation. It improves productivity, reduces human effort, and enhances decision-making. However, AI also faces challenges such as ethical concerns, privacy issues, and job displacement.
+<img width="914" height="339" alt="image" src="https://github.com/user-attachments/assets/8e72a857-1630-40a4-b6cb-79c0cc841099" />
+
+
 
 ---
 
@@ -223,7 +347,8 @@ Give study tips.
 
 ### Output
 
-Study regularly and avoid distractions.
+<img width="772" height="565" alt="image" src="https://github.com/user-attachments/assets/3f46f52a-f881-49f1-ba8a-23334e656ff4" />
+
 
 ---
 
@@ -238,6 +363,69 @@ Use motivational tone.
 ```
 
 ### Output
+
+# Effective Study Tips for Engineering Students
+
+Engineering exams can feel overwhelming, but with the right strategy and consistency, you can prepare effectively and score well. The key is to study smart, stay focused, and maintain confidence.
+
+## 1. Time Management Tips
+
+### • Create a Realistic Timetable
+Divide your day into study sessions for different subjects. Give more time to difficult topics while also revising easier ones regularly.
+
+### • Follow the Pomodoro Technique
+Study for 45–50 minutes with full concentration, then take a short 5–10 minute break. This improves productivity and reduces mental fatigue.
+
+### • Prioritize Important Topics
+Focus first on high-weightage chapters, formulas, and frequently asked problems. Avoid spending too much time on less important topics.
+
+### • Set Daily Goals
+Complete small targets every day such as solving problems, revising notes, or finishing one chapter. Small achievements build confidence.
+
+---
+
+## 2. Effective Revision Methods
+
+### • Revise Regularly
+Do not wait until the last day before exams. Daily revision improves long-term memory and understanding.
+
+### • Make Short Notes
+Prepare quick revision notes containing formulas, definitions, diagrams, and important concepts.
+
+### • Solve Previous Papers
+Practice previous year question papers and mock tests to understand exam patterns and improve speed.
+
+### • Teach Others
+Explaining concepts to friends is one of the best ways to strengthen your own understanding.
+
+### • Use Active Recall
+Instead of only reading, close the book and try to recall concepts from memory. This improves retention significantly.
+
+---
+
+## 3. Focus Improvement Techniques
+
+### • Remove Distractions
+Keep your phone away or use focus apps while studying. A distraction-free environment increases concentration.
+
+### • Study in a Clean Environment
+A neat and quiet study space helps your brain stay calm and focused.
+
+### • Sleep Properly
+Good sleep improves memory, concentration, and problem-solving ability. Avoid all-night studying before exams.
+
+### • Stay Physically Active
+Exercise, stretching, and proper hydration help maintain energy and mental freshness.
+
+### • Stay Positive
+Do not panic because of difficult subjects or backlog topics. Consistent effort every day brings improvement.
+
+---
+
+## Final Motivation
+
+Engineering is not only about hard work — it is about consistency, smart preparation, and patience. Even difficult subjects become manageable when you study step by step. Believe in your abilities, stay disciplined, and keep moving forward. Small daily progress can lead to big success in exams and your future career.
+
 
 ## Effective Study Tips for Engineering Students
 
